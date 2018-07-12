@@ -1,0 +1,17 @@
+.container, .container-fluid {
+   border:solid 1px black;
+  margin-bottom:20px;
+  background:#efefef;
+}
+
+[class^="col-"] {
+   border:solid 1px green;
+ }
+
+.my-shared-class {
+   padding-top:20px;
+   background:pink;
+ }
+
+ @media screen and (min-width:768px) {
+ }
